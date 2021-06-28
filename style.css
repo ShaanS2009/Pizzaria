@@ -1,0 +1,47 @@
+#show_menu-btn {
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    background-color: yellowgreen;
+    font-size: large;
+}
+#display_menu {
+    position: absolute;
+    top: 150px;
+    left: 130px;
+    font-size: 25px;
+    font-family: Helvetica;
+    font-weight: 300;
+    color: azure;
+    text-align: center;
+}
+#menu_div {
+    text-align: center;
+}
+#display_added_menu {
+    position: absolute;
+    top: 150px;
+    left: 130px;
+    font-size: 25px;
+    font-family: Helvetica;
+    font-weight: 300;
+    color: azure;
+    text-align: center;
+}
+#addItem {
+    position: absolute;
+    top: 1350px;
+    left: 50px;
+    width: 300px;
+    height: 35px;
+}
+#add_toppings {
+    position: absolute;
+    top: 1090px;
+    left: 50px;
+    width: 250px;
+    height: 250px;
+    background-color: red;
+}
